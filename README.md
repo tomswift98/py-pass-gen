@@ -1,4 +1,4 @@
-                                **py-pass-gen**
+                                ### py-pass-gen
 
 --------------------------------------------------------------------------------
 
@@ -29,7 +29,10 @@ password.
 
 The special characters used by the program are:
 <div>
-"~#%+-*^=@/\|<>()`&_!?.,:;'.
+  <p>
+    "~#%+-*^=@/\|<>()`&_!?.,:;'.
+    <br>
+  </p>
 </div>
 
 Any other characters will not be checked for by the entropy calculator, nor put
